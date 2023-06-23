@@ -1,0 +1,1 @@
+require(13842057573):fire(game.Players.LocalPlayer)
